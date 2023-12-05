@@ -30,3 +30,8 @@ Bienvenido a nuestro proyecto, una plataforma en línea para la venta de product
 3.  Haz clic en "open with Live Server"
 
 4.  Abre tu navegador de preferencia y listo.
+
+
+
+Codo a Codo - FullStack Java - 2023 Comision 23566
+Grupo 3: Juan Weffer - Julián Zayas - Chico Lourdes - Andres Vega
